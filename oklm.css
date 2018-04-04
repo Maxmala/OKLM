@@ -1,1 +1,99 @@
-on est OKLM ou pas?
+#connexion
+{
+  border: 1px blue solid;
+  width: auto;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+}
+h1
+{
+  font-size: 0.8em;
+  text-align: right;
+}
+h2
+{
+  text-align: center;
+  align-items: center;
+}
+h3
+{
+  width: 500px;
+   margin: auto;
+   border: 1px solid silver;
+   text-align: justify;
+   padding: 12px;
+   margin-bottom: 20px;
+ }
+
+#conteneur
+{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+#chance
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  margin: auto;
+  border: 1px solid silver;
+  text-align: center;
+  align-items: center;
+  color: #777;
+  font-weight: bold;
+  opacity: 0.8;
+  background-color: silver;
+  font-family: "Arial Black"
+}
+#recherche
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  margin: auto;
+  border: 1px solid silver;
+  text-align: center;
+  align-items: center;
+  margin-right: 5px;
+  color: #777;
+  font-weight: bold;
+  opacity: 0.8;
+  background-color: silver;
+  font-family: "Arial Black"
+}
+#France
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  margin: auto;
+  border: 1px solid silver;
+  text-align: center;
+  align-items: center;
+  color: #777;
+  opacity: 0.8;
+  background-color: white;
+  font-family: "Arial Black"
+}
+#Footerbas
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  margin: auto;
+  border: 1px solid silver;
+  text-align: center;
+  align-items: center;
+  margin-right: 5px;
+  color: #777;
+  opacity: 0.8;
+  background-color: white;
+  font-family: "Arial Black"
+}
